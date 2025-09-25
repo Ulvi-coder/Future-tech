@@ -10,4 +10,4 @@
 ## Как запустить
 1. Клонировать репозиторий:
     ```bash
-    git clone https://github.com/Ulvi-coder/Todo-list
+    git clone https://github.com/Ulvi-coder/Future-tech
